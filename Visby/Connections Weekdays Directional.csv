@@ -1,0 +1,157 @@
+source;target;time_difference;line_1_times;line_2_times;line_3_times;line_4_times;line_5_times;line_6_times;total_connections
+Pilhagsvägen;Blåeldsvägen;1;27;;;;2;;29
+Blåeldsvägen;Gullvivsvägen;1;27;;;;2;;29
+Gullvivsvägen;Jungmansgatan;1;27;;;;2;;29
+Jungmansgatan;Gråbo centrum;1;27;;;;2;;29
+Gråbo centrum;Stäven;1;27;;;;2;;29
+Stäven;Söderhemsgatan;1;27;;;;;;27
+Söderhemsgatan;Myrstigen;1;27;;;;2;;29
+Myrstigen;Vindelbosgatan;1;27;;;;2;;29
+Vindelbosgatan;Langsväg;1;12;;;;;;12
+Vindelbosgatan;Vegagatan;1;15;;;;2;;17
+Langsväg;Visborgsvallen;1;12;;;;;;12
+Visborgsvallen;Rådhuset Region Gotland;1;12;;;;;;12
+Rådhuset Region Gotland;Länsstyrelsen;1;12;;;;;;12
+Länsstyrelsen;Vegagatan;1;12;;;;;;12
+Vegagatan;Andrégatan;1;27;;;;2;;29
+Andrégatan;Visborgskyrkan;1;27;;;;;;27
+Visborgskyrkan;Gutevägen;1;27;;;;2;;29
+Gutevägen;Tallundsgatan;1;27;;;;2;;29
+Tallundsgatan;Söderrondellen;1;27;;;;2;;29
+Söderrondellen;Södercentrum;1;27;;;;2;;29
+Södercentrum;Visby busstation;1;27;;;;2;5;34
+Visby busstation;Östercentrum;1;27;13;5;7;4;;56
+Östercentrum;Birkagatan;1;27;;;;2;;29
+Birkagatan;Tjelvarvägen;1;27;;;;2;;29
+Tjelvarvägen;Bingebyplan;1;27;;;;2;;29
+Bingebyplan;Korpen;1;27;;;;2;;29
+Korpen;Fortunagatan;1;27;;;;2;;29
+Fortunagatan;Bingebygatan;1;27;;;;2;;29
+Bingebygatan;Atlasgatan;1;27;;;;2;;29
+Atlasgatan;Bläckfisken;1;27;;;;2;;29
+Bläckfisken;Lummelundsväg;1;27;;;;2;;29
+Lummelundsväg;Strandgärdet;1;27;;;;2;;29
+Strandgärdet;Lasarettet;1;27;;;7;4;;38
+Visby busstation;Lännaplan;1;;13;;;2;;15
+Lännaplan;Lännavägen;1;;13;;;2;;15
+Lännavägen;Stora Törnekvior;1;;13;;;2;;15
+Stora Törnekvior;Wilhemina Skoghs gata;1;;13;;;2;;15
+Wilhemina Skoghs gata;Rävhagen;1;;13;;;2;;15
+Rävhagen;Stenhuggaren;1;;13;;;2;;15
+Stenhuggaren;Sotaregatan;1;;13;;;;;13
+Sotaregatan;Gelbgjutargatan;1;;13;;;;;13
+Gelbgjutargatan;Kittelgatan;1;;13;;;;;13
+Kittelgatan;Sticksömsvägen;1;;13;;;;;13
+Sticksömsvägen;Sömmerskan;1;;13;;;;;13
+Östercentrum;Norrgatt;1;;;1;;;;1
+Norrgatt;Herkulesvägen;1;;;1;;;;1
+Herkulesvägen;Bingebygatan;1;;;1;;;;1
+Bingebygatan;Verkstadsgatan;1;;;1;;;;1
+Verkstadsgatan;Hyvelgatan;1;;;1;;;;1
+Hyvelgatan;Södra Skarphäll;1;;;1;;;;1
+Södra Skarphäll;Österygatan;1;;;1;;;;1
+Östercentrum;Othemarsgatan;1;;;4;;;;4
+Othermarsgatan;Häggvägen;1;;;4;;;;4
+Häggvägen;Södra Skarphäll;1;;;4;;;;4
+Södra Skarphäll;Hyvelgatan;1;;;4;;;;4
+Österbygatan;Visby bussdepå;1;;;1;;;;1
+Östercentrum;Strandgärdet;1;;;;7;2;;9
+Lasarettet;Trojaborg;1;;;;7;;;7
+Trojaborg;Norra Kyrkogården;1;;;;7;;;7
+Norra Kyrkogården;Talludden;1;;;;7;;;7
+Talludden;Gustavsvik;1;;;;7;;;7
+Gustavsvik;Snäck;1;;;;7;;;7
+Snäck;Flundreviken;1;;;;7;;;7
+Visborgskyrkan;Halsjärnsgatan;1;;;;;2;;2
+Halsjärnsgatan;Appellen;1;;;;;2;;2
+Signalgatan övre;Andrégatan;1;;;;;2;;2
+Söderhemsgatan;Kölen;1;;;;;2;;2
+Kölen;Pilhagsvägen;1;;;;;2;;2
+Stäven;Sömmerskan;2;;;;;2;;2
+Sömmerskan;Skräddargatan;1;;;;;2;;2
+Skräddargatan;Buntmakargatan;1;;;;;2;;2
+Buntmakargatan;Bokbindargatan;1;;;;;2;;2
+Bokbindargatan;Korgmakargatan;1;;;;;2;;2
+Korgmakargatan;Sotaregatan;1;;;;;2;;2
+Sotaregatan;Rävhagen;2;;;;;2;;2
+Södercentrum;Palissadgatan;3;;;;;;5;5
+Palissadgatan;Visby hamnterminal;3;;;;;;2;2
+Palissadgatan;Almedalen;3;;;;;;3;3
+Blåeldsvägen;Pilhagsvägen;1;25;;;;;;25
+Gullvivsvägen;Blåeldsvägen;1;25;;;;;;25
+Jungmansgatan;Gullvivsvägen;1;25;;;;;;25
+Gråbo centrum;Jungmansgatan;1;25;;;;;;25
+Stäven;Gråbo centrum;1;25;;;;;;25
+Söderhemsgatan;Stäven;1;25;;;;;;25
+Myrstigen;Söderhemsgatan;1;25;;;;;;25
+Vindelbosgatan;Myrstigen;1;25;;;;;;25
+Vegagatan;Vindelbosgatan;1;13;;;;;;13
+Visborgsvallen;Langsväg;1;12;;;;;;12
+Rådhuset Region Gotland;Visborgsvallen;1;12;;;;;;12
+Länsstyrelsen;Rådhuset Region Gotland;1;12;;;;;;12
+Vegagatan;Länsstyrelsen;1;12;;;;;;12
+Andrégatan;Vegagatan;1;25;;;;;;25
+Langsväg;Vegagatan;1;12;;;;;;12
+Visborgskyrkan;Andrégatan;1;25;;;;;;25
+Gutevägen;Visborgskyrkan;1;25;;;;;;25
+Tallundsgatan;Gutevägen;1;25;;;;;;25
+Söderrondellen;Tallundsgatan;1;25;;;;;;25
+Södercentrum;Söderrondellen;1;25;;;;;;25
+Visby busstation;Södercentrum;1;25;;;;;5;30
+Östercentrum;Visby busstation;1;25;12;5;7;4;;53
+Birkagatan;Östercentrum;1;25;;;;2;;27
+Tjelvarvägen;Birkagatan;1;25;;;;2;;27
+Bingebyplan;Tjelvarvägen;1;25;;;;2;;27
+Korpen;Bingebyplan;1;25;;;;2;;27
+Fortunagatan;Korpen;1;25;;;;2;;27
+Bingebygatan;Fortunagatan;1;25;;;;2;;27
+Atlasgatan;Bingebygatan;1;25;;;;2;;27
+Bläckfisken;Atlasgatan;1;25;;;;2;;27
+Lummelundsväg;Bläckfisken;1;25;;;;2;;27
+Strandgärdet;Lummelundsväg;1;25;;;;2;;27
+Lasarettet;Strandgärdet;1;25;;;7;4;;36
+Lännaplan;Visby busstation;1;;13;;;1;;14
+Lännavägen;Lännaplan;1;;13;;;1;;14
+Stora Törnekvior;Lännavägen;1;;13;;;1;;14
+Wilhemina Skoghs gata;Stora Törnekvior;1;;13;;;1;;14
+Rävhagen;Wilhemina Skoghs gata;1;;13;;;1;;14
+Stenhuggaren;Rävhagen;1;;13;;;1;;14
+Sotaregatan;Stenhuggaren;1;;13;;;;;13
+Gelbgjutargatan;Sotaregatan;1;;13;;;;;13
+Kittelgatan;Gelbgjutargatan;1;;13;;;;;13
+Sticksömsvägen;Kittelgatan;1;;13;;;;;13
+Sömmerskan;Sticksömsvägen;1;;13;;;;;13
+Norrgatt;Östercentrum;1;;;4;;;;4
+Herkulesvägen;Norrgatt;1;;;2;;;;2
+Bingebygatan;Herkulesvägen;1;;;2;;;;2
+Verkstadsgatan;Bingebygatan;1;;;2;;;;2
+Hyvelgatan;Verkstadsgatan;1;;;2;;;;2
+Södra Skarphäll;Hyvelgatan;1;;;2;;;;2
+Österygatan;Södra Skarphäll;1;;;2;;;;2
+Othemarsgatan;Östercentrum;1;;;2;;;;2
+Häggvägen;Othermarsgatan;1;;;4;;;;4
+Södra Skarphäll;Häggvägen;1;;;4;;;;4
+Hyvelgatan;Södra Skarphäll;1;;;4;;;;4
+Visby bussdepå;Österbygatan;1;;;2;;;;2
+Strandgärdet;Östercentrum;1;;;;7;;;7
+Trojaborg;Lasarettet;1;;;;7;;;7
+Norra Kyrkogården;Trojaborg;1;;;;7;;;7
+Talludden;Norra Kyrkogården;1;;;;7;;;7
+Gustavsvik;Talludden;1;;;;7;;;7
+Snäck;Gustavsvik;1;;;;7;;;7
+Flundreviken;Snäck;1;;;;7;;;7
+Halsjärnsgatan;Visborgskyrkan;1;;;;;1;;1
+Appellen;Halsjärnsgatan;1;;;;;1;;1
+Andrégatan;Signalgatan övre;1;;;;;1;;1
+Kölen;Söderhemsgatan;1;;;;;1;;1
+Pilhagsvägen;Kölen;1;;;;;1;;1
+Sömmerskan;Stäven;2;;;;;1;;1
+Skräddargatan;Sömmerskan;1;;;;;1;;1
+Buntmakargatan;Skräddargatan;1;;;;;1;;1
+Bokbindargatan;Buntmakargatan;1;;;;;1;;1
+Korgmakargatan;Bokbindargatan;1;;;;;1;;1
+Sotaregatan;Korgmakargatan;1;;;;;1;;1
+Rävhagen;Sotaregatan;2;;;;;1;;1
+Palissadgatan;Södercentrum;3;;;;;;5;5
+Visby hamnterminal;Palissadgatan;3;;;;;;1;1
+Almedalen;Palissadgatan;3;;;;;;4;4
